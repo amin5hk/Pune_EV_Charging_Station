@@ -1,2 +1,1 @@
-# Pune_EV_Charging_Station
-ML Model to find the nearest Charging station cluster or charging station giving latitude and longitude as an input
+The "Pune EV Charging Station Locator" is an innovative solution designed to address the growing needs of electric vehicle (EV) users in Pune, India. This comprehensive project aims to simplify the EV charging experience by providing a user-friendly, efficient, and personalized system for locating and utilizing charging stations by using Clusterin Algorithm and AHP.
